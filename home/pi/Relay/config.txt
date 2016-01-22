@@ -1,3 +1,0 @@
-isDoorOpen=True;
-isManual=False;
-manualMode=4;
